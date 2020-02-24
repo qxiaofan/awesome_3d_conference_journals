@@ -1,16 +1,8 @@
 **2020-02-24**
 
-Summary:
+[关于重定位论文合集](/SLAM/Relocate_Paper/Relocate_Paper.md):****
 
-# 重定位
+[关于地图复用论文合集](/SLAM/Map_Reuse_Paper/Map_Reuse_Paper.md):***
 
-[1] 《》
 
-2018 arXiv
-
-Abstract：
-
-arXiv：文献地址
-
-github：github项目地址
 
