@@ -2,7 +2,7 @@
 **记录每天整理搜集的3D视觉相关方向论文，重点是VSLAM、计算机视觉、深度学习等方向。**
 
 - [SLAM论文](#SLAM_Paper)
-- [3DCVer 顶会/顶刊](#TopSurvey)
+- [3DCVer 会议/顶刊](#TopSurvey)
 
 
 <a name="SLAM_Paper"></a>
@@ -16,9 +16,9 @@
 
 [【3D视觉从入门到精通】](https://wx.zsxq.com/dweb2/index/group/825412441552)分享的方向涵盖：3D视觉、CV&深度学习、SLAM、三维重建、点云后处理、自动驾驶、CV入门、医疗影像、缺陷检测、行人重识别、目标跟踪、视觉产品落地、视觉竞赛、车牌识别等
 
-#（![3D视觉从入门到精通](./imgs/3D视觉从入门到精通.jpg)）
+ ![3D视觉从入门到精通](./imgs/3D视觉从入门到精通.jpg）
 
-
+ 
 <a name="TopSurvey"></a>
 
 ## 3DCVer 会议/顶刊
@@ -91,23 +91,15 @@
 **自动驾驶**
 - [IROS](https://www.iros2019.org/)
 - [ICRA](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)
-- [IEEE IV：https://2020.ieee-iv.org/
-ITSC：https://www.itsc2019.org/
-ICVES：http://www.icves2019.org/
-RSS：https://roboticsconference.org/
-IJRR：http://www.ijrr.org/
+- [IEEE](IV：https://2020.ieee-iv.org/)
+- [ITSC](https://www.itsc2019.org/)
+- [ICVES](http://www.icves2019.org/)
+- [RSS](https://roboticsconference.org/)
+- [IJRR](http://www.ijrr.org/)
 
-医疗影像：
-
-MICCAI：http://www.miccai.org/
-ISBI：http://2020.biomedicalimaging.org/
-SPIE：https://spie.org/?SSO=1
-MIDL：https://2020.midl.io/
-
-
-
-
-
-
-
+**医疗影像**
+- [MICCAI](http://www.miccai.org/)
+- [ISBI](http://2020.biomedicalimaging.org/)
+- [SPIE](https://spie.org/?SSO=1)
+- [MIDL](https://2020.midl.io/)
 
